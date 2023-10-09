@@ -1,4 +1,4 @@
-# clienteServidos
+# clienteServidor
 Invertendo string usando rede (cliente-servidor)
 
 
